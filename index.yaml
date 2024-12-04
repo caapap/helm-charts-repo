@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  stellar:
+  - annotations:
+      catalog.cattle.io/release-name: stellar
+    apiVersion: v2
+    appVersion: 2.0.0
+    created: "2024-12-05T07:54:17.6912536+08:00"
+    description: A Helm Chart for Stellar, multi-platform monitoring system
+    digest: b48bbd5cbfd4fb0cc2db1d685b64a9ce7ec0d75950a3f3a5626e3ca8e1913c0e
+    home: iflytek
+    icon: stellar-icon.png
+    keywords:
+    - stellar
+    - monitoring
+    - alerting
+    - metrics
+    - traces
+    - logs
+    maintainers:
+    - email: zjma6@iflytek.com
+      name: stellar
+    name: stellar
+    sources:
+    - https://code.iflytek.com/zjma6/stellar.git
+    urls:
+    - https://github.com/caapap/helm-charts-repo.git/stellar-v1.3.tgz
+    version: v1.3
+generated: "2024-12-05T07:54:17.6852353+08:00"
